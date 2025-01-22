@@ -29,7 +29,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository**
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/minkxx/BankSystem-WithC.git
     cd BankingSystem
     ```
 
